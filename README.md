@@ -4,7 +4,17 @@ What is Proxy-filter?
 Proxy-filter is an easy-to-use tool for low-resource parallel corpus filtering tool. 
 It is developed as a proxy learner on top of a transformer-based multilingual pre-trained language model (RoBERTa). 
 Proxy-filter can easily score the noisy low-resource parallel corpus with high accuracy and low latency, covering 100 languages. 
-Proxy-filter wins the first (Pashto-English) and runner-up (Khmer-English) positions in WMT20 Parallel Corpus Filtering Task (https://www.statmt.org/wmt20/parallel-corpus-filtering.html).
+Proxy-filter wins the first (Pashto-English) and runner-up (Khmer-English) positions in WMT20 Parallel Corpus Filtering Task (https://www.statmt.org/wmt20/parallel-corpus-filtering.html). The research paper depicting the Proxy-Filter is accepted to present in WMT 2020. If you find this tool useful please support us by citing the paper:
+
+<pre>
+@inproceesings{proxyfilter20,
+  title={Filtering noisy parallel corpus using transformers with proxy task learning},
+  author={Acarcicek, Haluk and Colakoglu, Talha and Aktan, Pinar Ece and Huang, Chongxuan and Peng, Wei},
+  booktitle={Proceedings of the Fifth Conference on Machine Translation (WMT)},
+  year={2020}
+}
+</pre>
+
 
 
 Getting Started
