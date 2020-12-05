@@ -104,7 +104,7 @@ A "scores.txt" file will be produced at the "output_dir" location.
     
 ## References
 <a id="1">[1]</a> 
-Link to official submission will be here soon.
+Official Submission, http://www.statmt.org/wmt20/pdf/2020.wmt-1.105.pdf
 
 <a id="2">[2]</a> 
 Model details, https://huggingface.co/transformers/model_doc/xlmroberta.html
